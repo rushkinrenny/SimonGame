@@ -1,1 +1,2 @@
 # SimonGame
+Only for laptop
